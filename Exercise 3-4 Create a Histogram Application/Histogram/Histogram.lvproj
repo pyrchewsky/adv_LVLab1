@@ -19,7 +19,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Histogram Main.vi" Type="VI" URL="../Histogram Main.vi"/>
 		<Item Name="Consumer Message.ctl" Type="VI" URL="../Consumer Message.ctl"/>
 		<Item Name="Error Handler.vi" Type="VI" URL="../Error Handler.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
